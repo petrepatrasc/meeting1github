@@ -1,7 +1,7 @@
 <?php
 
 $name = "Adrian";
-// This is a comment.
+$mihai = 1;
 
 echo "Hello {$name}!\n";
 
