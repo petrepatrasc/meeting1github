@@ -1,6 +1,7 @@
 <?php
 
 $name = "Adrian";
+$mihai = 1;
 
 echo "Hello {$name}!\n";
 
